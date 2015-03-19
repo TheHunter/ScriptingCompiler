@@ -1,0 +1,8 @@
+C:\Users\Diego\Documents\Progetti\Net\HunterRepo\ScriptingCompiler\ScriptingCompiler.Console\obj\Debug\ScriptingCompiler.Console.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\Progetti\Net\HunterRepo\ScriptingCompiler\ScriptingCompiler.Console\bin\Debug\ScriptingCompiler.Console.exe.config
+C:\Users\Diego\Documents\Progetti\Net\HunterRepo\ScriptingCompiler\ScriptingCompiler.Console\bin\Debug\ScriptingCompiler.Console.exe
+C:\Users\Diego\Documents\Progetti\Net\HunterRepo\ScriptingCompiler\ScriptingCompiler.Console\bin\Debug\ScriptingCompiler.Console.pdb
+C:\Users\Diego\Documents\Progetti\Net\HunterRepo\ScriptingCompiler\ScriptingCompiler.Console\bin\Debug\ScriptingCompiler.dll
+C:\Users\Diego\Documents\Progetti\Net\HunterRepo\ScriptingCompiler\ScriptingCompiler.Console\bin\Debug\ScriptingCompiler.pdb
+C:\Users\Diego\Documents\Progetti\Net\HunterRepo\ScriptingCompiler\ScriptingCompiler.Console\obj\Debug\ScriptingCompiler.Console.exe
+C:\Users\Diego\Documents\Progetti\Net\HunterRepo\ScriptingCompiler\ScriptingCompiler.Console\obj\Debug\ScriptingCompiler.Console.pdb

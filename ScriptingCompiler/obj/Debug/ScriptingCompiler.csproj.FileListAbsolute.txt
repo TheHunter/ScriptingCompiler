@@ -1,0 +1,7 @@
+C:\Users\Diego\Documents\Progetti\Net\HunterRepo\ScriptingCompiler\ScriptingCompiler\bin\Debug\ScriptingCompiler.dll
+C:\Users\Diego\Documents\Progetti\Net\HunterRepo\ScriptingCompiler\ScriptingCompiler\bin\Debug\ScriptingCompiler.pdb
+C:\Users\Diego\Documents\Progetti\Net\HunterRepo\ScriptingCompiler\ScriptingCompiler\obj\Debug\ScriptingCompiler.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\Progetti\Net\HunterRepo\ScriptingCompiler\ScriptingCompiler\obj\Debug\TheHunter.Scripting.Properties.Resources.resources
+C:\Users\Diego\Documents\Progetti\Net\HunterRepo\ScriptingCompiler\ScriptingCompiler\obj\Debug\ScriptingCompiler.csproj.GenerateResource.Cache
+C:\Users\Diego\Documents\Progetti\Net\HunterRepo\ScriptingCompiler\ScriptingCompiler\obj\Debug\ScriptingCompiler.dll
+C:\Users\Diego\Documents\Progetti\Net\HunterRepo\ScriptingCompiler\ScriptingCompiler\obj\Debug\ScriptingCompiler.pdb
