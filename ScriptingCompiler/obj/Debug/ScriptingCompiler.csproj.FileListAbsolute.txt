@@ -5,3 +5,12 @@ C:\Users\Diego\Documents\Progetti\Net\HunterRepo\ScriptingCompiler\ScriptingComp
 C:\Users\Diego\Documents\Progetti\Net\HunterRepo\ScriptingCompiler\ScriptingCompiler\obj\Debug\ScriptingCompiler.csproj.GenerateResource.Cache
 C:\Users\Diego\Documents\Progetti\Net\HunterRepo\ScriptingCompiler\ScriptingCompiler\obj\Debug\ScriptingCompiler.dll
 C:\Users\Diego\Documents\Progetti\Net\HunterRepo\ScriptingCompiler\ScriptingCompiler\obj\Debug\ScriptingCompiler.pdb
+C:\Users\manuel.larahuiza\Documents\GitHub\ScriptingCompiler\ScriptingCompiler\bin\Debug\ScriptingCompiler.dll
+C:\Users\manuel.larahuiza\Documents\GitHub\ScriptingCompiler\ScriptingCompiler\bin\Debug\ScriptingCompiler.pdb
+C:\Users\manuel.larahuiza\Documents\GitHub\ScriptingCompiler\ScriptingCompiler\bin\Debug\Roslyn.Compilers.CSharp.dll
+C:\Users\manuel.larahuiza\Documents\GitHub\ScriptingCompiler\ScriptingCompiler\bin\Debug\Roslyn.Compilers.dll
+C:\Users\manuel.larahuiza\Documents\GitHub\ScriptingCompiler\ScriptingCompiler\bin\Debug\Roslyn.Compilers.VisualBasic.dll
+C:\Users\manuel.larahuiza\Documents\GitHub\ScriptingCompiler\ScriptingCompiler\obj\Debug\TheHunter.Scripting.Properties.Resources.resources
+C:\Users\manuel.larahuiza\Documents\GitHub\ScriptingCompiler\ScriptingCompiler\obj\Debug\ScriptingCompiler.csproj.GenerateResource.Cache
+C:\Users\manuel.larahuiza\Documents\GitHub\ScriptingCompiler\ScriptingCompiler\obj\Debug\ScriptingCompiler.dll
+C:\Users\manuel.larahuiza\Documents\GitHub\ScriptingCompiler\ScriptingCompiler\obj\Debug\ScriptingCompiler.pdb
