@@ -14,3 +14,4 @@ C:\Users\manuel.larahuiza\Documents\GitHub\ScriptingCompiler\ScriptingCompiler\o
 C:\Users\manuel.larahuiza\Documents\GitHub\ScriptingCompiler\ScriptingCompiler\obj\Debug\ScriptingCompiler.csproj.GenerateResource.Cache
 C:\Users\manuel.larahuiza\Documents\GitHub\ScriptingCompiler\ScriptingCompiler\obj\Debug\ScriptingCompiler.dll
 C:\Users\manuel.larahuiza\Documents\GitHub\ScriptingCompiler\ScriptingCompiler\obj\Debug\ScriptingCompiler.pdb
+C:\Users\manuel.larahuiza\Documents\GitHub\ScriptingCompiler\ScriptingCompiler\obj\Debug\ScriptingCompiler.csprojResolveAssemblyReference.cache
