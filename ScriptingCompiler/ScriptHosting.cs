@@ -26,6 +26,7 @@ namespace TheHunter.Scripting
                                     typeof(IQueryable).Assembly,
                                     typeof(IQueryable<>).Assembly,
                                     typeof(List<>).Assembly };
+
             List<string> ns = new List<string> { "System", "System.Collections", "System.Collections.Generic", "System.Text" };
 
             if (assemblies != null)
