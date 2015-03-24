@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ScriptingCompiler")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyCompany("The hunter company")]
 [assembly: AssemblyProduct("ScriptingCompiler")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2015")]
+[assembly: AssemblyCopyright("Licensed under LGPL")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

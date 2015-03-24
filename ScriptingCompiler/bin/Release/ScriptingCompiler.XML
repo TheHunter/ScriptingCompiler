@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ScriptingCompiler</name>
+    </assembly>
+    <members>
+        <member name="T:TheHunter.Scripting.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:TheHunter.Scripting.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:TheHunter.Scripting.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:TheHunter.Scripting.Properties.Resources.Roslyn_Compilers">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:TheHunter.Scripting.Properties.Resources.Roslyn_Compilers_CSharp">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:TheHunter.Scripting.Properties.Resources.Roslyn_Compilers_VisualBasic">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:TheHunter.Scripting.Properties.Resources.Roslyn_Services">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:TheHunter.Scripting.Properties.Resources.Roslyn_Services_CSharp">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:TheHunter.Scripting.Properties.Resources.Roslyn_Services_Editor">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:TheHunter.Scripting.Properties.Resources.Roslyn_Services_Editor_CSharp">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:TheHunter.Scripting.Properties.Resources.Roslyn_Services_Editor_VisualBasic">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:TheHunter.Scripting.Properties.Resources.Roslyn_Services_VisualBasic">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="T:TheHunter.Scripting.ScriptHosting">
+            <summary>
+            Class ScriptHosting.
+            </summary>
+        </member>
+        <member name="M:TheHunter.Scripting.ScriptHosting.#ctor(System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.Reflection.Assembly})">
+            <summary>
+            Initializes a new instance of the <see cref="T:TheHunter.Scripting.ScriptHosting"/> class.
+            </summary>
+            <param name="namespaces">The namespaces.</param>
+            <param name="assemblies">The assemblies.</param>
+        </member>
+        <member name="M:TheHunter.Scripting.ScriptHosting.Execute(System.String)">
+            <summary>
+            Executes the specified code.
+            </summary>
+            <param name="code">The code.</param>
+            <returns>System.Object.</returns>
+        </member>
+        <member name="M:TheHunter.Scripting.ScriptHosting.Execute``1(System.String)">
+            <summary>
+            Executes the specified code.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="code">The code.</param>
+            <returns>T.</returns>
+        </member>
+        <member name="M:TheHunter.Scripting.ScriptHosting.ExecuteFile(System.String)">
+            <summary>
+            Executes the file.
+            </summary>
+            <param name="path">The path.</param>
+        </member>
+    </members>
+</doc>

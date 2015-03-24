@@ -1,0 +1,4 @@
+D:\Projects\thehunter\ScriptingCompiler\ScriptingCompiler.Test\bin\Debug\ScriptingCompiler.Test.dll
+D:\Projects\thehunter\ScriptingCompiler\ScriptingCompiler.Test\bin\Debug\ScriptingCompiler.Test.pdb
+D:\Projects\thehunter\ScriptingCompiler\ScriptingCompiler.Test\obj\Debug\ScriptingCompiler.Test.dll
+D:\Projects\thehunter\ScriptingCompiler\ScriptingCompiler.Test\obj\Debug\ScriptingCompiler.Test.pdb

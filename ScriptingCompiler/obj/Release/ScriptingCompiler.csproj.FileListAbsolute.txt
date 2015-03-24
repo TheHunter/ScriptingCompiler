@@ -1,0 +1,8 @@
+D:\Projects\thehunter\ScriptingCompiler\ScriptingCompiler\bin\Release\ScriptingCompiler.XML
+D:\Projects\thehunter\ScriptingCompiler\ScriptingCompiler\bin\Release\ScriptingCompiler.dll
+D:\Projects\thehunter\ScriptingCompiler\ScriptingCompiler\bin\Release\Roslyn.Compilers.CSharp.dll
+D:\Projects\thehunter\ScriptingCompiler\ScriptingCompiler\bin\Release\Roslyn.Compilers.dll
+D:\Projects\thehunter\ScriptingCompiler\ScriptingCompiler\bin\Release\Roslyn.Compilers.VisualBasic.dll
+D:\Projects\thehunter\ScriptingCompiler\ScriptingCompiler\obj\Release\TheHunter.Scripting.Properties.Resources.resources
+D:\Projects\thehunter\ScriptingCompiler\ScriptingCompiler\obj\Release\ScriptingCompiler.csproj.GenerateResource.Cache
+D:\Projects\thehunter\ScriptingCompiler\ScriptingCompiler\obj\Release\ScriptingCompiler.dll

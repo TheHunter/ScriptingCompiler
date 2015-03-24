@@ -1,0 +1,10 @@
+D:\Projects\thehunter\ScriptingCompiler\ScriptingCompiler.Console\bin\Release\ScriptingCompiler.Console.exe.config
+D:\Projects\thehunter\ScriptingCompiler\ScriptingCompiler.Console\bin\Release\ScriptingCompiler.Console.exe
+D:\Projects\thehunter\ScriptingCompiler\ScriptingCompiler.Console\bin\Release\ScriptingCompiler.Console.pdb
+D:\Projects\thehunter\ScriptingCompiler\ScriptingCompiler.Console\bin\Release\ScriptingCompiler.dll
+D:\Projects\thehunter\ScriptingCompiler\ScriptingCompiler.Console\bin\Release\Roslyn.Compilers.CSharp.dll
+D:\Projects\thehunter\ScriptingCompiler\ScriptingCompiler.Console\bin\Release\Roslyn.Compilers.dll
+D:\Projects\thehunter\ScriptingCompiler\ScriptingCompiler.Console\bin\Release\ScriptingCompiler.xml
+D:\Projects\thehunter\ScriptingCompiler\ScriptingCompiler.Console\obj\Release\ScriptingCompiler.Cmd.csprojResolveAssemblyReference.cache
+D:\Projects\thehunter\ScriptingCompiler\ScriptingCompiler.Console\obj\Release\ScriptingCompiler.Console.exe
+D:\Projects\thehunter\ScriptingCompiler\ScriptingCompiler.Console\obj\Release\ScriptingCompiler.Console.pdb
